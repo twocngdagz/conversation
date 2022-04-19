@@ -1,5 +1,8 @@
 ## About this project
 
+Language/Framework
+- PHP 8.1 /Laravel 9
+
 Backend Technical Exam
 
 - A simple REST API
